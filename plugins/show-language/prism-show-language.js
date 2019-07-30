@@ -131,6 +131,7 @@
 		"t4": "T4 Text Templates (C#)",
 		"t4-vb": "T4 Text Templates (VB)",
 		"t4-templating": "T4 templating",
+		"un": "Unison",
 		"vbnet": "VB.Net",
 		"vhdl": "VHDL",
 		"vim": "vim",

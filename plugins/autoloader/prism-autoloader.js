@@ -138,7 +138,7 @@
 		"dns-zone": "dns-zone-file",
 		"dockerfile": "docker",
 		"gamemakerlanguage": "gml",
-		"hs": "unison",
+		"hs": "haskell",
 		"tex": "latex",
 		"context": "latex",
 		"ly": "lilypond",
@@ -153,6 +153,7 @@
 		"rb": "ruby",
 		"ts": "typescript",
 		"t4": "t4-cs",
+		"un": "unison",
 		"vb": "visual-basic",
 		"xeoracube": "xeora",
 		"yml": "yaml"

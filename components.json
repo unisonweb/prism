@@ -926,7 +926,7 @@
 		},
 		"unison": {
 			"title": "Unison",
-			"alias": "hs",
+			"alias": "un",
 			"owner": "bholst"
 		},
 		"vala": {
