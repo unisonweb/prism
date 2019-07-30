@@ -35,4 +35,4 @@ Prism.languages.unison = {
 	'punctuation': /[{}[\];(),.:]/
 };
 
-Prism.languages.hs = Prism.languages.unison;
+Prism.languages.un = Prism.languages.unison;
