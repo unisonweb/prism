@@ -138,7 +138,7 @@
 		"dns-zone": "dns-zone-file",
 		"dockerfile": "docker",
 		"gamemakerlanguage": "gml",
-		"hs": "haskell",
+		"hs": "unison",
 		"tex": "latex",
 		"context": "latex",
 		"ly": "lilypond",

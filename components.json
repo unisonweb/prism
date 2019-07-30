@@ -924,6 +924,11 @@
 			"title": "T4 templating",
 			"owner": "RunDevelopment"
 		},
+		"unison": {
+			"title": "Unison",
+			"alias": "hs",
+			"owner": "bholst"
+		},
 		"vala": {
 			"title": "Vala",
 			"require": "clike",
